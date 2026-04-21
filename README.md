@@ -129,7 +129,29 @@ Database used:
 MySQL
 
 
----
+
+<img width="1366" height="768" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/a2b06133-3bd8-4bea-a352-02faa34c85f0" />
+
+
+<img width="1366" height="768" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/2b9de35d-bb68-4258-8f09-f66a8c3f74bf" />
+
+
+<img width="1366" height="768" alt="Screenshot (224)" src="https://github.com/user-attachments/assets/67fa9419-ebd7-49b9-819e-269c9958971c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 👨‍💻 Author
