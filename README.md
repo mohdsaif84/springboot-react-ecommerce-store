@@ -1,4 +1,4 @@
-🛒 Full Stack E-Commerce Product Catalog Application
+ 🛒 ##Full Stack E-Commerce Product Catalog Application
 
 A full-stack eCommerce product catalog application built using Spring Boot (Backend) and React (Frontend).
 This project demonstrates REST API development, layered architecture implementation, and frontend-backend integration.
@@ -128,7 +128,6 @@ Database used:
 
 MySQL
 
-Hibernate ORM handles database interaction using Spring Data JPA repositories.
 
 ---
 
