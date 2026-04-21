@@ -130,7 +130,7 @@ MySQL
 
 
 
-# Application Output
+# Output
 
 
 <img width="1366" height="768" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/a2b06133-3bd8-4bea-a352-02faa34c85f0" />
